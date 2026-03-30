@@ -1,1 +1,1 @@
-### This repository analyzes Kazakhstan’s economy using Bloomberg Lab data. The analysis begins with oil prices as a key macroeconomic factor and expands to broader drivers of the national currency (KZT).
+This repository analyzes Kazakhstan’s economy using Bloomberg Lab data. The analysis begins with oil prices as a key macroeconomic factor and expands to broader drivers of the national currency (KZT).
